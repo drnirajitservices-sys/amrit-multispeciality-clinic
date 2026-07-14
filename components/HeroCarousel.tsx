@@ -49,7 +49,7 @@ const slides = [
   image: "/anantsir.jpeg",
   imageAlt:
     "Dr. Shubham Anant, Orthopaedic and Joint Replacement Specialist in Greater Noida",
-  profileLink: "/about",
+  profileLink: "/about#shubham",
 },
 
 {
@@ -62,7 +62,7 @@ const slides = [
   image: "/gauravsir.jpeg",
   imageAlt:
     "Dr. Gaurav Sharma, General and Laparoscopic Surgeon in Greater Noida",
-  profileLink: "/about",
+  profileLink: "/about#gaurav",
 },
 
 {
