@@ -34,7 +34,7 @@ const slides = [
       "Dr. Niraj Kumar Mishra, Senior Consultant in General Medicine",
     secondaryImageAlt:
       "Dr. Niraj Kumar Mishra during his service with the armed forces",
-    profileLink: "/doctors/dr-niraj-kumar-mishra",
+    profileLink: "/about#niraj",
   },
 
   {
@@ -49,7 +49,7 @@ const slides = [
   image: "/anantsir.jpeg",
   imageAlt:
     "Dr. Shubham Anant, Orthopaedic and Joint Replacement Specialist in Greater Noida",
-  profileLink: "/doctors/dr-shubham-anant",
+  profileLink: "/about",
 },
 
 {
@@ -62,7 +62,7 @@ const slides = [
   image: "/gauravsir.jpeg",
   imageAlt:
     "Dr. Gaurav Sharma, General and Laparoscopic Surgeon in Greater Noida",
-  profileLink: "/doctors/dr-gaurav-sharma",
+  profileLink: "/about",
 },
 
 {
