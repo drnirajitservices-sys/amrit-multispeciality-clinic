@@ -58,8 +58,7 @@ const slides = [
   eyebrow: "General & Laparoscopic Surgeon",
   title: "DR. GAURAV SHARMA",
   description:
-    "M.B.B.S., M.S. General Surgery, FIAGES, FMAS. Senior Medical Officer — United Nations Mission in the Democratic Republic of the Congo.",
-  image: "/gauravsir.jpeg",
+    "M.B.B.S., M.S. General Surgery, FIAGES, FMAS. General & Laparoscopic Surgeon",
   imageAlt:
     "Dr. Gaurav Sharma, General and Laparoscopic Surgeon in Greater Noida",
   profileLink: "/about#gaurav",
@@ -174,7 +173,7 @@ const handleTouchEnd = () => {
 
   return (
     <section
-  className="relative overflow-hidden touch-pan-y bg-gradient-to-br from-white via-green-50/40 to-white"
+  className="relative overflow-hidden touch-pan-y bg-gradient-to-br from-white via-green-50/40 to-white "
   aria-label="Clinic highlights"
   onClick={pauseForSevenSeconds}
   onTouchStart={handleTouchStart}
