@@ -43,9 +43,9 @@ const slides = [
   eyebrow: "Orthopaedic & Joint Replacement Specialist",
   title: "DR. SHUBHAM ANANT",
   description:
-    "MBBS, MS Orthopaedics (M.J.P. Rohilkhand University), with a Fellowship in Robotic Knee Joint Replacement. Former Senior Resident at the Sports Injury Centre, Central Institute of Orthopaedics.13+ years experience.",
+    "MBBS, MS (Orthopaedics), Fellowship in Robotics Total Knee Replacement (BLK MAX Hospital, New Delhi), Former Senior Resident Central Institute of Orthopaedics, Safdarjung Hospital.13+ years experience.",
   specialisation:
-    "Arthroscopy, Arthroplasty, Sports Injury, Orthopaedics, Joint Care, and Robotic Knee Joint Replacement.",
+    "Robotic Knee Joint Replacement, Arthroscopy, Sports Injury, Deformity correction & Orthopaedic Oncology.",
   image: "/anantsir.jpeg",
   imageAlt:
     "Dr. Shubham Anant, Orthopaedic and Joint Replacement Specialist in Greater Noida",

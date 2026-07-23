@@ -386,18 +386,14 @@ export default function DoctorsAbout() {
 
             <div className="mt-6 space-y-4 text-base leading-8 text-gray-600 sm:text-lg">
                 <p>
-                    Dr. Shubham Anant is a Consultant in the Department of
-                    Orthopaedics at Amrit Multispeciality Clinic and Sharda Care –
-                    Healthcity. He earned his MS in Orthopaedics from M. J. P.
-                    Rohilkhand University and has completed a fellowship in knee
-                    joint replacement.
+                    Dr. Shubham Anant is a Consultant in the Department of Orthopaedics at Amrit Multispeciality Clinic and Sharda Care – Healthcity.
+                    He earned his MS in Orthopaedics from M. J. P. Rohilkhand University and has done his fellowship in Robotics knee joint replacement from BLK Max Hospital, New Delhi.
+He has done his Senior residency from Safdarjung Hospital(Sports Injury Centre & Central Institute of Orthopedics)
                 </p>
 
                 <p>
-                    With over 13 years of experience, he specialises in joint
-                    replacements, sports injuries, spine surgery, arthroscopy, and
-                    minimally invasive orthopaedic procedures, delivering expert care
-                    for a wide range of musculoskeletal conditions.
+                    With over 13 years of experience, he specialises in joint replacements, sports injuries, arthroscopy, minimally invasive orthopaedic procedures, Orthopaedic Oncology and deformity correction.
+                    He has done over 500 succesful shoulder and knee arthroscopy Surgeries and a wide range of musculoskeletal pathologies.
                 </p>
             </div>
 
@@ -432,7 +428,7 @@ export default function DoctorsAbout() {
             {[
                 "Joint Replacement Surgery (Knee & Hip)",
                 "Arthroscopy & Sports Injury Management",
-                "Spine Surgery (Degenerative, Traumatic & Deformity Correction)",
+                "Bone Cancer & Limb Reconstruction Surgeries",
                 "Complex Fracture & Trauma Care",
                 "Minimally Invasive Orthopaedic Surgery",
                 "Ligament Reconstruction & Rotator Cuff Repair",
@@ -490,11 +486,11 @@ export default function DoctorsAbout() {
             {/* Professional memberships */}
             <InfoColumn title="Professional Memberships">
 
-                <InfoCard
+                {/*<InfoCard
                     icon="+"
                     title="Indian Orthopaedic Association"
                     description="Professional member of the Indian Orthopaedic Association, contributing to advancement and excellence in orthopaedic care."
-                />
+                />*/}
 
                 <InfoCard
                     icon="+"
