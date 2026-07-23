@@ -59,6 +59,7 @@ const slides = [
   title: "DR. GAURAV SHARMA",
   description:
     "M.B.B.S., M.S. General Surgery, FIAGES, FMAS. General & Laparoscopic Surgeon",
+  image: "/gauravsir.jpeg",
   imageAlt:
     "Dr. Gaurav Sharma, General and Laparoscopic Surgeon in Greater Noida",
   profileLink: "/about#gaurav",
